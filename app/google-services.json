@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "615499606324",
+    "firebase_url": "https://smart-agriculture-39df7-default-rtdb.firebaseio.com",
+    "project_id": "smart-agriculture-39df7",
+    "storage_bucket": "smart-agriculture-39df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615499606324:android:6cf5bc59ba5fa5d55c1d61",
+        "android_client_info": {
+          "package_name": "com.iot.lilik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1vNy_Ln3gIuKl7LQ-ED27ZvhZjJBejQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
